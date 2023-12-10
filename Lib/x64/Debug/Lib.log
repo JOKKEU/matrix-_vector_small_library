@@ -1,0 +1,9 @@
+﻿  vectors.cpp
+D:\C++\Lib\vectors.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\C++\Lib\vectors.cpp(37): warning C4715: VC::getCoordZ: значение возвращается не при всех путях выполнения
+D:\C++\Lib\vectors.cpp(53): warning C4715: VC::operator+: значение возвращается не при всех путях выполнения
+D:\C++\Lib\vectors.cpp(95): warning C4715: VC::operator*: значение возвращается не при всех путях выполнения
+D:\C++\Lib\vectors.cpp(69): warning C4715: VC::operator-: значение возвращается не при всех путях выполнения
+D:\C++\Lib\vectors.cpp(109): warning C4715: VC::length: значение возвращается не при всех путях выполнения
+D:\C++\Lib\vectors.cpp(129): warning C4715: angle: значение возвращается не при всех путях выполнения
+  Lib.vcxproj -> D:\C++\Lib\x64\Debug\Lib.lib
